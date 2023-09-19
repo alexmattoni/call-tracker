@@ -1,0 +1,11 @@
+{
+  "name": "call-tracker",
+  "version": "1.0.0",
+  "description": "website for serving radio messages recorded from trunked networks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
