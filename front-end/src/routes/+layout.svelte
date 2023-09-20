@@ -7,11 +7,11 @@
 </svelte:head>
 
 <nav class="navbar navbar-expand-lg bg-dark navbar-dark mb-4 px-4">
-    <a class="navbar-brand" href="/">Call Tracker</a>
-    <div class="d-flex justify-content-end">
-        <a class="btn btn-outline-success me-2" type="button" href="/">home</a>
-        <a class="btn btn-outline-danger" type="button" href="/tracking">tracking</a>
-    </div>
+        <a class="navbar-brand" href="/">Call Tracker</a>
+        <div class="container justify-content-end">
+            <a class="btn btn-outline-success me-3 my-2" type="button" href="/">home</a>
+            <a class="btn btn-outline-danger" type="button" href="/tracking">tracking</a>
+        </div>
 </nav>
 
 <slot></slot>
